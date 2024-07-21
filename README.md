@@ -1,4 +1,5 @@
 Smart Street Light |
+
 Smart Street Light used for lighting street lights depending on the vehicles pass under it which helps in reduction of energy. Also the light can be provided on basis of environment and we can also have the eye on use of the lights by the graph provided online and have a known of how much energy is used and also the trafficking of cars on road.
 
 • Design and developed a device or system using Node MCU / Raspberry Pi3, LDR sensor, IR sensor,LED, C.
